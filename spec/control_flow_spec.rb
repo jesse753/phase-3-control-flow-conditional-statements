@@ -18,6 +18,7 @@ describe '#admin_login' do
   end
 
 end
+  
 
 describe '#hows_the_weather' do
   
